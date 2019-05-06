@@ -1,6 +1,8 @@
 # Sterren
 This repository includes all the routines and files necessary to analyse the ZF/GAM response linear and nonlinearly
+
 Key:
+
 File name format: XXXYYsZZ
 
 XXX:device name (W7X, LHD, Sa)
