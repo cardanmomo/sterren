@@ -12,7 +12,9 @@ YY: configuration
 For Wendelstein 7-X, this can be:
 
 hi: High Iota
-li: Lowe Iota
+li: Low Iota
 hm: High Mirror
 lm: Low Mirror
 sd: Standard Configuration
+
+ZZ: Plasma radius, see: http://fusionwiki.ciemat.es/wiki/Effective_plasma_radius
