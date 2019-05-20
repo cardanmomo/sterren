@@ -1,6 +1,6 @@
-# CREATED BY GENE DIAGNOSTICS TOOL on Thu Feb 14 12:21:24 2019
+# CREATED BY GENE DIAGNOSTICS TOOL on Fri May 17 15:47:13 2019
 # diag: timetrace, run(s): act, time window: 0-1650(4883 steps), species: ions
-# original data path: /marconi_work/FUA23_ESTRELLA/IFERC/W7Xsds09/GAM/
+# original data path: /ptmp/cmor/IFERC/W7Xsd/s09/GAM/59.952/
 # normalization: L_ref=1.65m
 #
 #  t          Re[phi]     Im[phi]   

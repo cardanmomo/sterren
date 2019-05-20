@@ -1,6 +1,6 @@
-# CREATED BY GENE DIAGNOSTICS TOOL on Sun Feb 10 16:39:23 2019
+# CREATED BY GENE DIAGNOSTICS TOOL on Thu May 16 16:05:11 2019
 # diag: timetrace, run(s): act, time window: 0-3300.148(9539 steps), species: ions
-# original data path: /ptmp/cmor/IFERC/W7Xhiotas05/GAM/665.979/
+# original data path: /ptmp/cmor/IFERC/W7Xhi/s05/GAM/665.979/
 # normalization: L_ref=1.65m
 #
 #  t          Re[phi]     Im[phi]   
