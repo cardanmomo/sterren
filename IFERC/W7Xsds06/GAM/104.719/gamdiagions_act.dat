@@ -1,10 +1,11 @@
-# CREATED BY GENE DIAGNOSTICS TOOL on Mon Dec 10 14:16:13 2018
+# CREATED BY GENE DIAGNOSTICS TOOL on Mon May 20 14:52:22 2019
 # diag: gamdiag, run(s): act, time window: 0-1499.968(4077 steps), species: ions
+# original data path: /draco/ptmp/cmor/IFERC/W7Xsd/s06/GAM/104.719/
 # normalization: L_ref=1.65m
 #
 # xind= 0, x/a= 0, q= 1.0915365
-# Fit:    -NaN,Infinity,Infinity
-# Analytic: -NaN,Infinity,Infinity
+# Fit:    -NaN,-NaN,-NaN
+# Analytic (Gao, Zhou/Yu): -NaN,-NaN,-NaN
 #  t          Re[phi]     Im[phi]   
   0.0000E+00  1.9695E+01  0.0000E+00
   3.6800E-01  1.9644E+01  1.1183E-01
