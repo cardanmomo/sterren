@@ -1,0 +1,96 @@
+Synopsis
+
+1.	Abstract 
+2.	Introduction
+    a.	Renewable energy
+    b.	Nuclear fusion
+    c.	Temperature confinement
+    d.	Turbulence
+    e.	Zonal flows
+    f.	Simulations
+    g.	Need for models
+    h.	Research question
+    i.	Outline of the research
+    j.	Outline of the paper
+3.	Theoretical background 
+    a.	Nuclear fusion
+    b.	Plasma
+    c.	Reactors
+    d.	Stellarators
+    e.	Turbulence
+    f.	Zonal flows 
+    g.	Linear and nonlinear simulations
+    h.	Model of Nunami 
+4.	Description experiment
+    a.	Data used
+    b.	Zonal flow decay time (integral)
+    c.	Residual value
+    d.	Modes / spectrum
+    e.	Decay (exponential?)
+    f.	Besides W7X, also tokamak and LHD (if there is time)
+5.	Results
+    a.	Zonal flow decay time
+        i.	Different configurations
+            1.	Comparison high iota
+                a.	Comparison modulus
+                b.	Comparison real part
+                c.	Comparison imaginary part
+                d.	Comparisons different s-coordinates
+            2.	Comparison low iota
+                a.	Comparison modulus
+                b.	Comparison real part
+                c.	Comparison imaginary part
+                d.	Comparison different s-coordinates
+            3.	Comparison high mirror
+                a.	Comparison modulus
+                b.	Comparison real part
+                c.	Comparison imaginary part
+                d.	Comparison different s-coordinates
+            4.	Comparison standard configuration
+                a.	Comparison modulus
+                b.	Comparison real part
+                c.	Comparison imaginary part
+                d.	Comparison different s-coordinates
+            5.	Comparison of different configurations
+                a.	Comparison modulus
+                b.	Comparison real part
+                c.	Comparison imaginary part
+        ii.	Different s-coordinates
+            1.	Comparison different configurations
+            2.	Comparison different Lx
+        iii.	Different L_x
+            1.	Comparison all with Lx=104.719
+                a.	Comparison modulus
+                b.	Comparison real part
+                c.	Comparison imaginary part
+                d.	Comparison different configurations
+                e.	Comparison different s-coordinates
+        iv.	General 
+        v.	Relation to nonlinear simulations / being able or not to find one
+        vi.	Comparison W7X, tokamak, LHD (if there is time)
+    b.	Residual
+        i.	Different configurations
+        ii.	Different s-coordinates
+        iii.	Different L_x
+        iv.	General 
+        v.	Relation to nonlinear simulations / being able or not to find one
+        vi.	Comparison W7X, tokamak, LHD (if there is time)
+    c.	Modes / spectrum
+        i.	Different configurations
+        ii.	Different s-coordinates
+        iii.	Different L_x
+        iv.	General 
+        v.	Relation to nonlinear simulations / being able or not to find one
+        vi.	Comparison W7X, tokamak, LHD (if there is time)
+    d.	Decay (exponential?)
+        i.	Different configurations
+        ii.	Different s-coordinates
+        iii.	Different L_x
+        iv.	General 
+        v.	Relation to nonlinear simulations / being able or not to find one
+        vi.	Comparison W7X, tokamak, LHD (if there is time)
+6.	Conclusion
+    a.	Conclusion of results
+    b.	Comparison W7X, tokamak, LHD (if there is time)
+    c.	Future research
+7.	Discussion (?)
